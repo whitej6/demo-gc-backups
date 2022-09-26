@@ -1,3 +1,4 @@
-# nautobot-gc-backups
+# nautobot-gc-configs
 
-This is demo repo to hold backup configurations.
+This is demo repo to hold generated configurations for the purpose nautobot golden config plugin.
+
